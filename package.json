@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/futurepaul/arthurtalk",
   "devDependencies": {
+    "jsx-loader": "^0.12.2",
     "webpack": "^1.7.2"
+  },
+  "dependencies": {
+    "baobab": "^0.4.1",
+    "react": "^0.13.1"
   }
 }
